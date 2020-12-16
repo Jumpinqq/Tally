@@ -14,4 +14,4 @@
 
 ## My Socials
 - <img align="center" alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/YouTube_play_button_circular_%282013-2017%29.svg/1024px-YouTube_play_button_circular_%282013-2017%29.svg.png" height="24"/>    [YouTube](https://www.youtube.com/c/Jumpinqq)
-- <img align="center" alt="Discord" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" height="24"/>    Jumpinqq#4777
+- <img align="center" alt="Discord" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" height="24"/>    [Jumpinqq#4777](https://discord.gg/nhN8Zx3)
